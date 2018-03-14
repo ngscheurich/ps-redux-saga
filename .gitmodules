@@ -1,6 +1,6 @@
 [submodule "redux-saga-shopping-cart-server"]
 	path = redux-saga-shopping-cart-server
 	url = https://github.com/danielstern/redux-saga-shopping-cart-server.git
-[submodule "redux-saga-cart"]
-	path = redux-saga-cart
-	url = https://github.com/danielstern/redux-saga-cart.git
+[submodule "redux-saga-sandbox"]
+	path = redux-saga-sandbox
+	url = https://github.com/danielstern/redux-saga-sandbox.git
